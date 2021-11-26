@@ -1,0 +1,23 @@
+@media only screen and (min-width:0px) and (max-width:640px){
+    .wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        
+        background-color: #242424;
+    }
+    .welcome_text {
+        width: 200px;
+      }
+      .option {
+        display: block;
+        width: 10rem;
+        background-color: #fff;
+        margin-bottom: 0.6rem;
+        padding: 0.3rem 0.5rem;
+        border-radius: 6rem;
+        border: 2px solid transparent;
+        transition: 0.4s all;
+      }
+}

@@ -1,0 +1,103 @@
+@-webkit-keyframes rotate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotateX(180deg);
+    }
+}
+.card-text{
+    visibility: hidden;
+}
+#card1:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card1:hover .card-img-top{
+    visibility: hidden;
+}
+#card1:hover .card-text{
+    visibility: visible;
+}
+
+
+
+#card2:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card2:hover .card-img-top{
+    visibility: hidden;
+}
+#card2:hover .card-text{
+    visibility: visible;
+}
+
+
+#card3:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card3:hover .card-img-top{
+    visibility: hidden;
+}
+#card3:hover .card-text{
+    visibility: visible;
+}
+
+#card4:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card4:hover .card-img-top{
+    visibility: hidden;
+}
+#card4:hover .card-text{
+    visibility: visible;
+}
+
+#card5:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card5:hover .card-img-top{
+    visibility: hidden;
+}
+#card5:hover .card-text{
+    visibility: visible;
+}
+
+#card6:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card6:hover .card-img-top{
+    visibility: hidden;
+}
+#card6:hover .card-text{
+    visibility: visible;
+}
+
+#card7:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card7:hover .card-img-top{
+    visibility: hidden;
+}
+#card7:hover .card-text{
+    visibility: visible;
+}
+
+#card8:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card8:hover .card-img-top{
+    visibility: hidden;
+}
+#card8:hover .card-text{
+    visibility: visible;
+}
+
+#card9:hover{
+    animation: rotate 0.3s 0.05s linear;
+}
+#card9:hover .card-img-top{
+    visibility: hidden;
+}
+#card9:hover .card-text{
+    visibility: visible;
+}

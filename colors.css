@@ -1,0 +1,24 @@
+.color-white{
+    color: white;
+}
+.color-grey{
+    color: rgb(85, 85, 85);
+}
+.color-black{
+    color: black;
+}
+.color-darkblue{
+    color: darkblue;
+}
+.color-orange{
+    color:rgb(100, 48, 0)
+}
+.bg-orange{
+    background: orangered;
+}
+.bg-purple{
+    background: purple;
+}
+.bg-pink-l{
+    background: rgb(255, 107, 210);
+}

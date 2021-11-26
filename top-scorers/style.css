@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Taprom&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@600&display=swap');
+
+
+
+.navbar-brand{
+    font-family: 'Taprom', cursive;
+    font-size: 200%;
+}
+.navbar-collapse{
+    font-family: 'Advent Pro', sans-serif;
+}
+
+
+body{
+    background: rgb(17, 17, 17);
+}
+
+img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+
+.p-5 .row{
+    margin: auto;
+}
+.color-white{
+    color: aliceblue;
+}

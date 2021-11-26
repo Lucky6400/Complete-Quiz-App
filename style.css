@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Taprom&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@600&display=swap');
+
+
+
+.navbar-brand{
+    font-family: 'Taprom', cursive;
+    font-size: 200%;
+}
+.navbar-collapse{
+    font-family: 'Advent Pro', sans-serif;
+}
+.quiz-form{
+    width: 70%;
+    margin: auto;
+}
+.width-100{
+    width: 100%;
+}
+.cards-sc2{
+    width: 80%;
+    padding: 5%;
+    margin: auto;
+}
+
+.login_form input{
+	
+	
+	outline: none;
+	border: 1px solid silver;
+}
+
+
+.login_form button:hover{
+	background: #151c6a;
+}
+.login_form #email_error,
+.login_form #pass_error{
+	
+	
+	font-size: 1rem;
+	color: #C62828;
+	background: rgba(255,0,0,0.1);
+	text-align: center;
+	
+	border-radius: 3px;
+	border: 1px solid #EF9A9A;
+	display: none;
+}
+.mt-10{
+	margin-top: 10rem;
+}
+.quiz-form li{
+	list-style: none;
+	padding: 0.6rem;
+}
